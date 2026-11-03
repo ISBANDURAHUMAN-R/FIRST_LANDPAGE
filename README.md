@@ -2,6 +2,14 @@
   <img src="assets/banner.png" alt="FIRST_LANDPAGE Banner" width="100%">
 </p>
 
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/Live_Website-Active_Deployment-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://isbandurahuman-r.github.io/FIRST_LANDPAGE/)
+
+🚀 **[Launch Live Moon Hero Landing Page ➔](https://isbandurahuman-r.github.io/FIRST_LANDPAGE/)**
+
+</div>
+
 Moon--Landing Page
 Description
 
