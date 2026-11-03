@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="FIRST_LANDPAGE Banner" width="100%">
+</p>
+
 Moon--Landing Page
 Description
 
