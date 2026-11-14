@@ -2,40 +2,30 @@
   <img src="assets/banner.png" alt="FIRST_LANDPAGE Banner" width="100%">
 </p>
 
-<div align="center">
-
-[![Live Demo](https://img.shields.io/badge/Live_Website-Active_Deployment-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://isbandurahuman-r.github.io/FIRST_LANDPAGE/)
-
-› **[Launch Live Moon Hero Landing Page »](https://isbandurahuman-r.github.io/FIRST_LANDPAGE/)**
-
-</div>
-
 # ◈ Moon Landing Page
 
-## ✦ Description
+## ◆ About the Project
+Moon Landing Page is a responsive promotional webpage developed using HTML and CSS as part of the CodSoft Web Development Internship. The project demonstrates core front-end styling principles including CSS Flexbox layouts, typography hierarchy, and asset composition.
 
-This project is a simple and responsive landing page built using HTML and CSS. The website presents information about the Moon through a clean and modern user interface. It includes a hero section with a heading, description, call-to-action button, and an image of the Moon.
-
-## ❖ Features
-- Responsive design for desktop and mobile devices
-- Clean and user-friendly layout
-- Hero section with engaging content
-- Custom styling using CSS
-- Moon-themed landing page design
+## ❖ Key Features
+- ▪ Central hero section with heading typography, descriptive body text, and call-to-action buttons.
+- ▫ Responsive layout adapting smoothly to desktop, tablet, and mobile viewport sizes.
+- ▴ Clean lunar aesthetic featuring custom CSS styling and imagery.
 
 ## ⬢ Technologies Used
-- HTML
-- CSS
+- HTML5
+- CSS3
 
-## § Project Objective
+## § Requirements
+- Modern web browser
 
-The purpose of this project is to practice front-end web development concepts such as page layout, responsive design, styling, and content presentation using HTML and CSS.
+## ▲ Installation & Execution
+```bash
+# Open index.html directly or serve locally
+python -m http.server 8000
+```
+Open `http://localhost:8000` in your web browser.
 
-## □ Files Included
-- `index.html` – Main webpage structure
-- `stylemoon.css` – Stylesheet for page design
-- `moon.png` – Moon image used in the landing page
-
-## ※ Outcome
-
-This project demonstrates the creation of a visually appealing landing page and helps strengthen fundamental web development skills.
+## ※ Developer
+Developer: ISBANDU RAHUMAN R  
+GitHub: https://github.com/ISBANDURAHUMAN-R
