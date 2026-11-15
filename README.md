@@ -18,26 +18,26 @@ Moon Landing Page is a responsive promotional webpage developed using HTML and C
 ```mermaid
 graph TD
     subgraph DOMStructure ["HTML5 Document Object Model"]
-        Head[Document Head<br/>Meta Tags & Viewport Configuration]
-        Body[Document Body Root]
-        Body --> Nav[Navigation Bar & Brand Identity]
-        Body --> Hero[Hero Section Container]
-        Hero --> Content[Headline & Descriptive Copy]
-        Hero --> CTA[Call-to-Action Action Buttons]
-        Hero --> Visual[Hero Visual Asset / moon.jpg]
+        Head["Document Head<br/>Meta Tags & Viewport Configuration"]
+        Body["Document Body Root"]
+        Body --> Nav["Navigation Bar & Brand Identity"]
+        Body --> Hero["Hero Section Container"]
+        Hero --> Content["Headline & Descriptive Copy"]
+        Hero --> CTA["Call-to-Action Action Buttons"]
+        Hero --> Visual["Hero Visual Asset / moon.jpg"]
     end
 
     subgraph StylingPipeline ["CSS3 Layout Engine"]
-        Reset[CSS Global Reset & Typography] --> FlexBox[CSS Flexbox Alignment]
-        FlexBox --> MediaQueries[Responsive Breakpoints<br/>Desktop | Tablet | Mobile]
-        MediaQueries --> VisualStyles[Color Contrast & Hover Transitions]
+        Reset["CSS Global Reset & Typography"] --> FlexBox["CSS Flexbox Alignment"]
+        FlexBox --> MediaQueries["Responsive Breakpoints<br/>Desktop • Tablet • Mobile"]
+        MediaQueries --> VisualStyles["Color Contrast & Hover Transitions"]
     end
 
     subgraph ClientExecution ["Browser Runtime"]
-        DOMStructure --> RenderTree[Render Tree Construction]
+        DOMStructure --> RenderTree["Render Tree Construction"]
         StylingPipeline --> RenderTree
-        RenderTree --> LayoutPass[Layout & Paint Engine]
-        LayoutPass --> Viewport[Responsive Browser Display]
+        RenderTree --> LayoutPass["Layout & Paint Engine"]
+        LayoutPass --> Viewport["Responsive Browser Display"]
     end
 ```
 
